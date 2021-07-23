@@ -1,0 +1,53 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "~41.0.1",
+    "expo-status-bar": "~1.0.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
+    "react-native-web": "~0.13.12",
+    "firebase": "8.2.3",
+    "crypto-js": "*",
+    "expo-haptics": "~10.0.0",
+    "react-sticky": "*",
+    "expo-constants": "~10.1.3",
+    "react-native-svg": "12.1.0",
+    "@expo/vector-icons": "^12.0.0",
+    "react-native-paper": "3.6.0",
+    "expo-linear-gradient": "~9.1.0",
+    "react-native-screens": "~3.0.0",
+    "react-native-elements": "*",
+    "react-native-tab-view": "^2.0.0",
+    "@react-navigation/stack": "*",
+    "react-native-reanimated": "~2.1.0",
+    "@react-navigation/drawer": "^5.9.0",
+    "@react-navigation/native": "^5.7.3",
+    "react-native-vector-icons": "*",
+    "react-native-awesome-alerts": "*",
+    "react-native-safe-area-view": "*",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-linear-gradient": "*",
+    "@react-navigation/bottom-tabs": "*",
+    "react-native-gradient-buttons": "*",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-web-linear-gradient": "*",
+    "@fortawesome/fontawesome-svg-core": "1.2.4",
+    "@fortawesome/free-solid-svg-icons": "*",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/material-top-tabs": "^5.2.16",
+    "@fortawesome/react-native-fontawesome": "*",
+    "react-native-image-header-scroll-view": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true
+}
