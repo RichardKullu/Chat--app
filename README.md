@@ -1,5 +1,5 @@
-if you want to see it live go to https://snack.expo.dev/@richard_x0/rude-hummus and login id : richie@gm.com pass: 123456
-
+"READ INSTRUCTIONS" if you want to see it live go to https://snack.expo.dev/@richard_x0/rude-hummus and login id : richie@gm.com pass: 123456
+and go to chat and id "punk".
 
 LOGIN SCREEN
 ![Screenshot (48)](https://user-images.githubusercontent.com/35299116/126776373-02c79b19-c1d5-4d43-aa0b-4584ea5f907f.png)
